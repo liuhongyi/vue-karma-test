@@ -7,5 +7,5 @@ npm install
 ```
 安装完成后，执行
 ```
-karma start
+npm run test
 ```
